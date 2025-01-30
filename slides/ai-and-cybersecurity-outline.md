@@ -8,16 +8,16 @@
 ---
 
 ## Program Description	
-  * The "Cybersecurity for AI Professionals" workshop aims 
-    * equip AI professionals with a comprehensive understanding of cybersecurity threats specific to AI systems. 
+  * The "Cybersecurity for AI Professionals" workshop aims to
+    * Equip AI professionals with a comprehensive understanding of cybersecurity threats specific to AI systems. 
     * Participants will learn best practices for securing AI models, data, and pipelines, 
     * Integrate these skills into the AI development lifecycle. 
     * By providing hands-on experience with real-world vulnerabilities and mitigation techniques, 
-    * the program prepares professionals to implement robust cybersecurity frameworks
-    * incident response protocols
-    * defence strategies against adversarial attacks. 
+    * The program prepares professionals to implement robust cybersecurity frameworks
+    * Incident response protocols
+    * Defence strategies against adversarial attacks. 
     * Additionally, the workshop emphasizes the importance of ethical and compliance considerations, 
-    * ensuring participants are well-prepared to address privacy, transparency, and regulatory standards within AI cybersecurity.
+    * Ensuring participants are well-prepared to address privacy, transparency, and regulatory standards within AI cybersecurity.
 
 ---
 ## Learning Outcomes
