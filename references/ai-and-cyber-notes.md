@@ -12,3 +12,6 @@
     * Pliny the Liberator @elder_plinius
 
 * Prompt injection
+
+* [DeepSeek for hackers](https://news.risky.biz/deepseek-is-a-win-for-chinese-hackers/)
+* [DeepSeek is 100% hackable](https://blogs.cisco.com/security/evaluating-security-risk-in-deepseek-and-other-frontier-reasoning-models)
