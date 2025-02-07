@@ -13,3 +13,4 @@
 
 * [DeepSeek for hackers](https://news.risky.biz/deepseek-is-a-win-for-chinese-hackers/)
 * [DeepSeek is 100% hackable](https://blogs.cisco.com/security/evaluating-security-risk-in-deepseek-and-other-frontier-reasoning-models)
+* [Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities](https://arxiv.org/abs/2501.19012)
