@@ -1,5 +1,7 @@
 # ai-and-cybersecurity
 ### Slide order
-slides/slide-order.txt
+* [Slide order](slides/slide-order.txt)
+### Labs
+* [Labs](labs)
 ### Sister lab
 [AIGoat](https://github.com/elephantscale/AIGoat)
