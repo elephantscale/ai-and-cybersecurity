@@ -15,3 +15,8 @@
 * [DeepSeek is 100% hackable](https://blogs.cisco.com/security/evaluating-security-risk-in-deepseek-and-other-frontier-reasoning-models)
 * [Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities](https://arxiv.org/abs/2501.19012)
 * [HarmBench](https://www.harmbench.org/)
+
+#### Required reading at WWT (WMWare)
+
+* [AI's Best Friend ](https://www.amazon.com/Best-Friend-Robert-RSnake-Hansen/dp/B0CWKY91WM/)
+
