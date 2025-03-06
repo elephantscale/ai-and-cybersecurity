@@ -20,3 +20,7 @@
 
 * [AI's Best Friend ](https://www.amazon.com/Best-Friend-Robert-RSnake-Hansen/dp/B0CWKY91WM/)
 
+#### Noma
+
+* Secure Your Entire Data & AI Lifecycle
+* [https://noma.security/](https://noma.security/)
