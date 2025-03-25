@@ -24,3 +24,10 @@
 
 * Secure Your Entire Data & AI Lifecycle
 * [https://noma.security/](https://noma.security/)
+
+#### AI Goat
+https://orca.security/resources/blog/orca-ai-goat-open-source-environment-owasp-risks/
+
+#### GenAI OWASP
+https://genai.owasp.org/
+
