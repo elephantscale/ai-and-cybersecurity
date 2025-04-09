@@ -1,0 +1,2 @@
+# Outline in ES repo
+* [https://github.com/elephantscale/es-training-new/blob/master/course-outlines/AI/AI-and-Security-Workshop.md](https://github.com/elephantscale/es-training-new/blob/master/course-outlines/AI/AI-and-Security-Workshop.md)
