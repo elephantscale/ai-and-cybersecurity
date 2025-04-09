@@ -1,4 +1,3 @@
-ai-and-cybersecurity-outline.md
 ai-and-cyber-notes.md
 # Secure coding (2 days)
 ai-and-cybersecurity-outline.md
