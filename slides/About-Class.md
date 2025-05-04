@@ -162,4 +162,20 @@ Notes:
 
 ---
 
-## 
+## INSIDE CYBER CHUCK BROOKS
+* Common Cyber Threats and Defensive Tools
+  * Social Engineering and Identity Theft
+  * Phishing
+  * Ransomware
+  * Botnets
+  * DDoS Attacks15
+* Cyber Threat Targets
+  * Software Supply Chains
+  * Internet of Things and Mobility
+  * Insider Threats
+  * The Cloud
+  * Critical Infrastructure Protection
+  
+![](../images/book1.png)
+
+---
