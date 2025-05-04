@@ -1,6 +1,6 @@
 # AI and Security (2 days)
 # ai-and-cybersecurity-outline.md
-About-Secure-Coding-Class.md
+About-Class.md
 # ../../course-outlines/secure-coding-general-2d.md
 ../../course-outlines/secure-coding.md
 

@@ -65,7 +65,7 @@ Notes:
 
  * Where is the ANY key?
 
-![](../../assets/images/about/any-key.png) <!-- {"left" : 1.63, "top" : 2.83, "height" : 4.26, "width" : 5.29} -->
+![](../images/any-key.png) <!-- {"left" : 1.63, "top" : 2.83, "height" : 4.26, "width" : 5.29} -->
 
 
 Notes: 
@@ -77,7 +77,7 @@ Notes:
 ## Analogy: Learning To Fly...
 
 
-![](../../assets/images/about/learn-to-fly.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../images/learn-to-fly.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 
 Notes: 
@@ -89,7 +89,7 @@ Notes:
 ## Instruction
 
 
-![](../../assets/images/about/classroom-instruction.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../images/classroom-instruction.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 Notes: 
 
@@ -101,7 +101,7 @@ http://aviation-schools.regionaldirectory.us/learn-to-fly-720.jpg
 
 ## + Flight Time
 
-![](../../assets/images/about/cockpit.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../images/cockpit.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 Notes: 
 
@@ -113,22 +113,12 @@ http://www.wikihow.com/Become-a-Certified-Flight-Instructor
 
 ## This Will Take A Lot Of Practice 
 
-![](../../assets/images/about/practice.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../images/practice.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 
 Notes: 
 
 
-
----
-
-## Your class!
-
-* Yes, this is your class. What does this mean? You define the value.
-* What is the most important ingredient of class – your participation!
-* Your feedback and questions are always welcomed.
-* There is no protocol in class. Speak up anytime!
-* We value your comments during and after class. Just email `mark@elephantscale.com`.
 
 ---
 
@@ -146,13 +136,13 @@ Notes:
 
      - Technologies you are familiar with
 
-     - Familiarity with security? (scale of 1 – 4:  1 – new,   4 – expert)
+     - Familiarity with AI? Security? (scale of 1 – 4:  1 – new,   4 – expert)
 
      - Something non-technical about you!(favorite ice cream flavor or hobby...)
 
 ![](../images/ice-cream.png)  <!-- {"left" : 0.67, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
 
-![](../images/hiking.png)   <!-- {"left" : 3.60, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
+![](../images/hiking-2.jpg)   <!-- {"left" : 3.60, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
  
 
 Notes: 
