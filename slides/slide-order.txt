@@ -1,10 +1,9 @@
-ai-and-cyber-notes.md
-# Secure coding (2 days)
-ai-and-cybersecurity-outline.md
-ai-and-cyber-notes.md
+# AI and Security (2 days)
+# ai-and-cybersecurity-outline.md
+About-Secure-Coding-Class.md
 # ../../course-outlines/secure-coding-general-2d.md
 ../../course-outlines/secure-coding.md
-About-Secure-Coding-Class.md
+
 ../../cybersecurity-common/slides/Security-Intro.md
 ../../cybersecurity-common/slides/Threat-Modeling.md
 # Optional
