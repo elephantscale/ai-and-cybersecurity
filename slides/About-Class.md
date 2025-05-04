@@ -1,8 +1,6 @@
-Secure Coding
-======
+# AI and Security
 
-
-## Agenda - 3 days
+## Agenda - 2 days
 
 | Day | Theme                | Detail                                                                                                |
 |-----|----------------------|-------------------------------------------------------------------------------------------------------|
@@ -31,7 +29,8 @@ Notes:
 
    - Ask a lot of questions 
 
- * This is a Secure Coding class
+ * This is an AI and Security class
+   * or, how to make your AI application secure
    - No previous knowledge is assumed (but may be helpful) 
    - Class will be based on the pace of majority of the students
 
@@ -151,3 +150,16 @@ Notes:
 
 ---
 
+# Recommended reading
+
+## Why read?
+
+* AI and security is the freshest area
+  * That is, how do I make my newest AI app secure?
+* Security advice from an experts
+  * TODO
+* Therefore, the list of books
+
+---
+
+## 
