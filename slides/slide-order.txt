@@ -2,8 +2,8 @@
 
 $ES_HOME/es-training-new/course-outlines/AI/AI-and-Security-for-Cisco.md
 About-Class.md
-Intro.md
-
+Intro-AI-Security.md
+GenAI-Top-10.md
 $ES_HOME/es-training-new/cybersecurity-common/slides/Threat-Modeling.md
 # Optional
 $ES_HOME/es-training-new/cybersecurity-common/slides/OSI_Security_Model.md
@@ -15,10 +15,10 @@ Defensive-Programming.md
 REST-Endpoint-Security-OAuth2.md
 Secure-Design.md
 Angular-oauth.md
-../../vault-consul/slides/Vault_introduction.md
-../../vault-consul/slides/Vault_architecture.md
-../../vault-consul/slides/Vault_configuration.md
-../../vault-consul/slides/Consul.md
+$ES_HOME/es-training-new/vault-consul/slides/Vault_introduction.md
+$ES_HOME/es-training-new/vault-consul/slides/Vault_architecture.md
+$ES_HOME/es-training-new//vault-consul/slides/Vault_configuration.md
+$ES_HOME/es-training-new//vault-consul/slides/Consul.md
 
 
 
