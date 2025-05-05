@@ -2,15 +2,13 @@
 
 $ES_HOME/es-training-new/course-outlines/AI/AI-and-Security-for-Cisco.md
 About-Class.md
-# ../../course-outlines/secure-coding-general-2d.md
-../../course-outlines/secure-coding.md
+Intro.md
 
-../../cybersecurity-common/slides/Security-Intro.md
-../../cybersecurity-common/slides/Threat-Modeling.md
+$ES_HOME/es-training-new/cybersecurity-common/slides/Threat-Modeling.md
 # Optional
-../../cybersecurity-common/slides/OSI_Security_Model.md
-../../cybersecurity-common/slides/SLC_and_SDLC.md
-../../cybersecurity-common/slides/Security_Design.md
+$ES_HOME/es-training-new/cybersecurity-common/slides/OSI_Security_Model.md
+$ES_HOME/es-training-new/cybersecurity-common/slides/SLC_and_SDLC.md
+$ES_HOME/es-training-new/cybersecurity-common/slides/Security_Design.md
 # End Optional
 Common-Attacks.md
 Defensive-Programming.md
