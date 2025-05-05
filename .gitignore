@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 
 assembly.out*
+.DS_Store
