@@ -192,3 +192,46 @@ And it's still exhausting :-)
 ![](../images/book1.png)
 
 ---
+
+## AI, NL, and DL - Security
+        
+* Machine Learning Attack Models
+  * Adversarial Machine Learning
+  * Threat of Adversarial Attacks to Deep Learning
+  * Attack Models for Collaborative Deep Learning
+  * Attacks on Deep Reinforcement Learning Systems: A Tutor
+* Secure AI Systems: Defenses
+  * Survey of Machine Learning Defense Strategies
+  * Defenses Against Deep Learning Attacks
+  * Defensive Schemes for Cyber Security of Deep Reinforcement Learning
+  * Adversarial Attacks on Machine Learning Models in Cyber-Physical Systems
+  * Federated Learning and Blockchain
+
+![](../images/book2.png)
+
+---
+
+## The Cybersecurity Mesh Architecture Tarun Kumar
+* Chapter 4
+  * The Need for Cybersecurity Mesh Architecture
+* Chapter 5
+  * Fundamental Components of Cybersecurity Mesh Architecture
+* Chapter 6
+  * How to Effectively Adopt Cybersecurity Mesh Architecture
+
+![](../images/book3.png)
+
+---
+
+## Malicious Use of AI
+* The Palgrave Handbook of Malicious Use of AI and Psychological Security
+* The Malicious Use of Artificial Intelligence
+  * Growing Threats, Delayed Responses
+  * The Malicious Use of Deepfakes Against Psychological Security and Political Stability
+  * Malicious Use of Artificial Intelligence and the Threats to Corporate Reputation in International Business
+
+![](../images/book4.png)
+
+---
+
+
