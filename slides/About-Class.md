@@ -2,13 +2,10 @@
 
 ## Agenda - 2 days
 
-| Day | Theme                | Detail                                                                                                |
-|-----|----------------------|-------------------------------------------------------------------------------------------------------|
-| 1   | Introducing Security | Intro * Threat modeling * Common attacks * Countermeasures * Secure design                                                          |
-| 2   | Secure Coding        | Java Security * JavaScript Security * REST endpoint security * Authentication and Authorization (OAuth) * Session security                                   |
-| 3   | Secure Frameworks    | Modern security frameworks (Vault and Consul) *  Framework architecture  * Securing the runtime environment * Security future |
-
-
+| Day | Theme                   | Detail                                                                                                          |
+|-----|-------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1   | Introducing AI Security | AI and Cybersecurity * Data poisoning, model evasion, adversarial attacks * Protecting AI Models and Algorithms |
+| 2   | Securing AI Data&Models | Data, model security * Adversarial attacks * Frameworks * Ethics                                                |
 
 Notes: 
 
@@ -150,7 +147,7 @@ Notes:
 
 ---
 
-# How to keep up?
+# Becoming an Ace
 
 ## AI security is cool!
 
