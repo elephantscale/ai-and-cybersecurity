@@ -1,5 +1,6 @@
 # AI and Security (2 days)
-# ai-and-cybersecurity-outline.md
+
+$ES_HOME/es-training-new/course-outlines/AI/AI-and-Security-for-Cisco.md
 About-Class.md
 # ../../course-outlines/secure-coding-general-2d.md
 ../../course-outlines/secure-coding.md
