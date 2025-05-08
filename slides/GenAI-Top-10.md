@@ -15,6 +15,7 @@
 
 ## LLM01: Prompt Injection
 * Manipulating LLMs via crafted inputs can lead to unauthorized access, data breaches, and compromised decision-making.
+* Mitigation
 * Constrain model behavior
   * Provide specific instructions about the model’s role, capabilities, and limitations within the system prompt. Enforce strict context adherence, limit responses to specific tasks or topics, and instruct the model to ignore attempts to modify core instructions.
 * Define and validate expected output formats
@@ -27,12 +28,17 @@
 
 ## LLM02: Insecure Output Handling
 * Neglecting to validate LLM outputs may lead to downstream security exploits, including code execution that compromises systems and exposes data.
+* Mitigation
+* Integrate Data Sanitization Techniques
+  * Implement data sanitization to prevent user data from entering the training model. This includes scrubbing or masking sensitive content before it is used in training. 
+* Robust Input Validation
+  * Apply strict input validation methods to detect and filter out potentially harmful or sensitive data inputs, ensuring they do not compromise the model.
 
 ---
 
 ## LLM03: Training Data Poisoning
 * Tampered training data can impair LLM models leading to responses that may compromise security, accuracy, or ethical behavior.
-
+![](../images/openverse-1397376024_dcb6ee9ebf.jpg)
 ---
 
 
