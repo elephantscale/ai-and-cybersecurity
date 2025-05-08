@@ -22,7 +22,7 @@
 
 ---
 
-## Prompt injection hard
+## Prompt injection harm
 * Disclosure of sensitive information
 * Revealing sensitive information about AI system infrastructure or system prompts
 * Content manipulation leading to incorrect or biased outputs
