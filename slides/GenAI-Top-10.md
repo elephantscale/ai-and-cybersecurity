@@ -13,7 +13,26 @@
 
 ---
 
-## LLM01: Prompt Injection
+## LLM01:2025 Prompt Injection
+* A Prompt Injection Vulnerability occurs when user prompts alter the LLM’s behavior or output in unintended ways. These inputs can affect the model even if they are imperceptible to humans, therefore prompt injections do not need to be human-visible/readable, as long as the content is parsed by the model.
+* Direct Prompt Injections
+  * Direct prompt injections occur when a user’s prompt input directly alters the behavior of the model in unintended or unexpected ways.
+* Indirect Prompt Injections
+  * Indirect prompt injections occur when an LLM accepts input from external sources, such as websites or files.
+
+---
+
+## Prompt injection hard
+* Disclosure of sensitive information
+* Revealing sensitive information about AI system infrastructure or system prompts
+* Content manipulation leading to incorrect or biased outputs
+* Providing unauthorized access to functions available to the LLM
+* Executing arbitrary commands in connected systems
+* Manipulating critical decision-making processes
+
+---
+
+## LLM01: Prompt Injection 
 * Manipulating LLMs via crafted inputs can lead to unauthorized access, data breaches, and compromised decision-making.
 * Mitigation
 * Constrain model behavior
@@ -26,7 +45,7 @@
 * [Details](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
 ---
 
-## LLM02: Insecure Output Handling
+# LLM02:2025 Sensitive Information Disclosure
 * Neglecting to validate LLM outputs may lead to downstream security exploits, including code execution that compromises systems and exposes data.
 * Mitigation
 * Integrate Data Sanitization Techniques
