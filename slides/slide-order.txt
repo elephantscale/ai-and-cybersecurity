@@ -4,6 +4,7 @@ $ES_HOME/es-training-new/course-outlines/AI/AI-and-Security-for-Cisco.md
 About-Class.md
 Intro-AI-Security.md
 GenAI-Top-10.md
+HarmBench.md
 $ES_HOME/es-training-new/cybersecurity-common/slides/Threat-Modeling.md
 # Optional
 $ES_HOME/es-training-new/cybersecurity-common/slides/OSI_Security_Model.md
