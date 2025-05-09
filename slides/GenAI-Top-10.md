@@ -58,10 +58,36 @@
 ---
 
 # LLM02:2025 Sensitive Information Disclosure
-* Neglecting to validate LLM outputs may lead to downstream security exploits, including code execution that compromises systems and exposes data.
-* Mitigation
+* Sensitive information can affect both the LLM and its application context. 
+  * Personal identifiable information (PII), 
+  * financial details, 
+  * health records, 
+  * confidential business data, 
+  * security credentials, and l
+  * egal documents. 
+* Proprietary models may also have unique training methods and source code considered sensitive, 
+  * especially in closed or foundation models.
+* [Details](https://genai.owasp.org/llmrisk/llm022025-sensitive-information-disclosure/)
+---
+
+## Common Examples of LLM02 Vulnerability
+* PII Leakage
+  * Personal identifiable information (PII) may be disclosed during interactions with the LLM.
+
+* Proprietary Algorithm Exposure
+  * Poorly configured model outputs can reveal proprietary algorithms or data. Revealing training data can expose models to inversion attacks, where attackers extract sensitive information or reconstruct inputs. For instance, as demonstrated in the ‘Proof Pudding’ attack (CVE-2019-20634), disclosed training data facilitated model extraction and inversion, allowing attackers to circumvent security controls in machine learning algorithms and bypass email filters.
+
+* Sensitive Business Data Disclosure
+  * Generated responses might inadvertently include confidential business information.
+
+---
+
+
+## Prevention and Mitigation Strategies
+
 * Integrate Data Sanitization Techniques
-  * Implement data sanitization to prevent user data from entering the training model. This includes scrubbing or masking sensitive content before it is used in training. 
+  * Implement data sanitization to prevent user data from entering the training model. This includes scrubbing or masking sensitive content before it is used in training.
+
 * Robust Input Validation
   * Apply strict input validation methods to detect and filter out potentially harmful or sensitive data inputs, ensuring they do not compromise the model.
 
