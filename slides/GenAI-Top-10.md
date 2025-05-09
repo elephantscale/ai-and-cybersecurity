@@ -93,43 +93,16 @@
 
 ---
 
-## LLM03: Training Data Poisoning
-* Tampered training data can impair LLM models leading to responses that may compromise security, accuracy, or ethical behavior.
-![](../images/openverse-1397376024_dcb6ee9ebf.jpg)
+## LLM03:2025 Supply Chain
+* LLM supply chains are susceptible to various vulnerabilities, which can affect the integrity of training data, models, and deployment platforms. 
+* These risks can result in biased outputs, security breaches, or system failures. 
+* While traditional software vulnerabilities focus on issues like code flaws and dependencies, in ML the risks also extend to third-party pre-trained models and data.
+
+* These external elements can be manipulated through tampering or poisoning attacks.
+
+*![](../images/openverse-15983822552_81e81003e5_b.jpg)
 ---
 
-
-## LLM04: Model Denial of Service
-* Overloading LLMs with resource-heavy operations can cause service disruptions and increased costs.
----
-
-
-## LLM05: Supply Chain Vulnerabilities
-* Depending upon compromised components, services or datasets undermine system integrity, causing data breaches and system failures.
----
-
-
-## LLM06: Sensitive Information Disclosure
-* Failure to protect against disclosure of sensitive information in LLM outputs can result in legal consequences or a loss of competitive advantage.
----
-
-
-## LLM07: Insecure Plugin Design
-* LLM plugins processing untrusted inputs and having insufficient access control risk severe exploits like remote code execution.
----
-
-## LLM08: Excessive Agency
-* Granting LLMs unchecked autonomy to take action can lead to unintended consequences, jeopardizing reliability, privacy, and trust.
----
-
-## LLM09: Overreliance
-* Failing to critically assess LLM outputs can lead to compromised decision making, security vulnerabilities, and legal liabilities.
----
-
-
-## LLM10: Model Theft
-* Unauthorized access to proprietary large language models risks theft, competitive advantage, and dissemination of sensitive information.
----
 
 ## References
 * [Ref](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
