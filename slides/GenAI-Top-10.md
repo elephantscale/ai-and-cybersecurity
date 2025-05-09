@@ -32,6 +32,18 @@
 
 ---
 
+## Example Attack Scenarios
+* Scenario #1: Direct Injection
+  * An attacker injects a prompt into a customer support chatbot, instructing it to ignore previous guidelines, query private data stores, and send emails, leading to unauthorized access and privilege escalation.
+
+* Scenario #2: Indirect Injection
+  * A user employs an LLM to summarize a webpage containing hidden instructions that cause the LLM to insert an image linking to a URL, leading to exfiltration of the the private conversation.
+
+* Scenario #3: Unintentional Injection
+  * A company includes an instruction in a job description to identify AI-generated applications. An applicant, unaware of this instruction, uses an LLM to optimize their resume, inadvertently triggering the AI detection.
+
+---
+
 ## LLM01: Prompt Injection Mitigation
 * Manipulating LLMs via crafted inputs can lead to unauthorized access, data breaches, and compromised decision-making.
 * Mitigation
