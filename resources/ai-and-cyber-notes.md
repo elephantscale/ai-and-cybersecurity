@@ -31,3 +31,7 @@ https://orca.security/resources/blog/orca-ai-goat-open-source-environment-owasp-
 #### GenAI OWASP
 https://genai.owasp.org/
 
+#### Prompt engineering
+* for prompt engineering defense, https://pangea.cloud/ had a good presentation at a recent conference.  They had categorized 170 types of attacks
+* Paul Baclace:	Preventing system prompt leakage can be accomplished by examining generated text and simply searching for the system prompt (perhaps edit distance to account for different formatting).
+* 
