@@ -103,7 +103,23 @@
 *![](../images/openverse-15983822552_81e81003e5_b.jpg)
 ---
 
+## Common Examples of Risks
+* Traditional Third-party Package Vulnerabilities
+  * Such as outdated or deprecated components, which attackers can exploit to compromise LLM applications. This is similar to “A06:2021 – Vulnerable and Outdated Components” with increased risks when components are used during model development or finetuning. (Ref. link: A06:2021 – Vulnerable and Outdated Components)
 
+* Licensing Risks
+  * AI development often involves diverse software and dataset licenses, creating risks if not properly managed. Different open-source and proprietary licenses impose varying legal requirements. Dataset licenses may restrict usage, distribution, or commercialization.
+
+* Outdated or Deprecated Models
+  * Using outdated or deprecated models that are no longer maintained leads to security issues.
+
+---
+
+## Sample Attack Scenarios
+* Vulnerable Python Library
+  * An attacker exploits a vulnerable Python library to compromise an LLM app. This happened in the first Open AI data breach. Attacks on the PyPi package registry tricked model developers into downloading a compromised PyTorch dependency with malware in a model development environment. 
+* Direct Tampering
+* 
 ## References
 * [Ref](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [Conf](https://genai.owasp.org/)
