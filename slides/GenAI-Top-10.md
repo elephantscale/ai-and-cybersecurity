@@ -22,7 +22,7 @@
 
 ---
 
-## Prompt injection harm
+## Prompt injection payload
 * Disclosure of sensitive information
 * Revealing sensitive information about AI system infrastructure or system prompts
 * Content manipulation leading to incorrect or biased outputs
@@ -32,14 +32,14 @@
 
 ---
 
-## LLM01: Prompt Injection 
+## LLM01: Prompt Injection Mitigation
 * Manipulating LLMs via crafted inputs can lead to unauthorized access, data breaches, and compromised decision-making.
 * Mitigation
 * Constrain model behavior
   * Provide specific instructions about the model’s role, capabilities, and limitations within the system prompt. Enforce strict context adherence, limit responses to specific tasks or topics, and instruct the model to ignore attempts to modify core instructions.
 * Define and validate expected output formats
   * Specify clear output formats, request detailed reasoning and source citations, and use deterministic code to validate adherence to these formats.
-  * Lab: How to verify JSON output
+  * Lab: Getting Structured LLM Output
 * Implement input and output filtering
   * Provide the application with its own API tokens for extensible functionality, and handle these functions in code rather than providing them to the model. Restrict the model’s access privileges to the minimum necessary for its intended operations.
 * [Details](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)

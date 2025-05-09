@@ -9,6 +9,7 @@
 
 ### Guardrails lab
 * https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/1/introduction
+
 ### Getting Structured LLM Output
 * https://learn.deeplearning.ai/courses/getting-structured-llm-output/lesson/cat89/introduction
 
