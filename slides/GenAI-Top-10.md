@@ -9,9 +9,13 @@
 * The technology has continued to spread across industries and applications, and so have the associated risks. 
 * As LLMs are embedded more deeply in everything from customer interactions to internal operations
 * Developers and security professionals are discovering new vulnerabilities—and ways to counter them.
-* ![](../images/openverse-42645941185_30884891c2_b.jpg)
 
 ---
+
+## About monsters
+* ![](../images/openverse-42645941185_30884891c2_b.jpg)
+---
+
 ## LLM01:2025 Prompt Injection
 * A Prompt Injection Vulnerability occurs when user prompts alter the LLM’s behavior or output in unintended ways. These inputs can affect the model even if they are imperceptible to humans, therefore prompt injections do not need to be human-visible/readable, as long as the content is parsed by the model.
 * Direct Prompt Injections
