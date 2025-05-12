@@ -9,8 +9,8 @@
 
 * Plan of approach
   * AI, Security, AI+security
-  * Exploits: Prompt intro, Prompt hacking+defenses
-  * Thread modeling
+  * Exploits: Prompt intro, Prompt lab, Prompt hacking+defenses
+  * Threat modeling
 
 Notes: 
 
