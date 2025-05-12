@@ -188,3 +188,15 @@
 
 ---
 
+## Plan
+
+![](../images/phack32.png)
+
+---
+
+## Prompt protection
+
+![](../images/phack33.png)
+
+---
+
