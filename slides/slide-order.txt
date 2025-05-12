@@ -3,6 +3,8 @@
 $ES_HOME/es-training-new/course-outlines/AI/AI-and-Security-for-Cisco.md
 About-Class.md
 Intro-AI-Security.md
+Prompt-hacking-intro.md
+Prompt-hacking-and-defenses.md
 GenAI-Top-10.md
 HarmBench.md
 Guardrails.md
