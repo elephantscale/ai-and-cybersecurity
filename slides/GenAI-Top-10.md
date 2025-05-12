@@ -12,15 +12,6 @@
 * ![](../images/openverse-42645941185_30884891c2_b.jpg)
 
 ---
-
-## OWASP Presentation
-
-* [Presentation](https://docsend.com/view/e6ew5asgtua5efye)
-* https://docsend.com/view/e6ew5asgtua5efye
-
----
-
-
 ## LLM01:2025 Prompt Injection
 * A Prompt Injection Vulnerability occurs when user prompts alter the LLM’s behavior or output in unintended ways. These inputs can affect the model even if they are imperceptible to humans, therefore prompt injections do not need to be human-visible/readable, as long as the content is parsed by the model.
 * Direct Prompt Injections
@@ -213,6 +204,13 @@
 ## LLM10:2025 Unbounded Consumption
 * Unbounded Consumption refers to the process where a Large Language Model (LLM) generates outputs based on input queries or prompts. 
 * Inference is a critical function of LLMs, involving the application of learned patterns and knowledge to produce relevant responses or predictions.
+---
+
+## OWASP Presentation
+
+* [Presentation](https://docsend.com/view/e6ew5asgtua5efye)
+* https://docsend.com/view/e6ew5asgtua5efye
+
 ---
 
 ## References
