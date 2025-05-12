@@ -8,11 +8,10 @@
 | 2   | Securing AI Data&Models | Data, model security * Adversarial attacks * Frameworks * Ethics                                                |
 
 * Plan of approach
-  * AI
-  * Security
-  * AI+security
-  * Exploits
-  * Defenses
+  * AI, Security, AI+security
+  * Exploits: Prompt intro, Prompt hacking+defenses
+  * Thread modeling
+
 Notes: 
 
 ---
