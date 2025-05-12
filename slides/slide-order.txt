@@ -9,6 +9,7 @@ $ES_HOME/es-training-new/cybersecurity-common/slides/Threat-Modeling.md
 GenAI-Top-10.md
 HarmBench.md
 Guardrails.md
+ProtectionCookbook.md
 # Optional
 $ES_HOME/es-training-new/cybersecurity-common/slides/OSI_Security_Model.md
 $ES_HOME/es-training-new/cybersecurity-common/slides/SLC_and_SDLC.md
