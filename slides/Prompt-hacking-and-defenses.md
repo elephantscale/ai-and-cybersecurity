@@ -1,4 +1,4 @@
-# Prompt hacking and defenses
+# Prompt **hacking** and defenses
 
 ## Authority
 
@@ -115,5 +115,76 @@
 
 ---
 
+## Training data attack
 
+![](../images/phack20.png)
+
+---
+
+## Training data exfiltration
+
+![](../images/phack21.png)
+
+---
+
+## Training data exfiltration
+
+![](../images/phack22.png)
+
+---
+
+## Doing damage
+
+![](../images/phack24.png)
+
+---
+
+
+## Ask for help
+
+![](../images/phack25.png)
+
+---
+
+## Get help
+
+![](../images/phack26.png)
+
+---
+
+
+## Many more
+
+![](../images/phack27.png)
+
+---
+
+## Get rich quick
+
+![](../images/phack28.png)
+
+---
+
+## Detailed plan
+
+![](../images/phack29.png)
+
+---
+
+
+## Fun facts
+
+![](../images/phack30.png)
+
+---
+
+# Prompt hacking and **defenses**
+
+---
+
+## So, now, how to protect
+
+![](../images/phack31.png)
+
+---
 
