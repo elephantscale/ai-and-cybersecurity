@@ -72,4 +72,48 @@
 
 ---
 
+## System prompt leaking
+
+![](../images/phack13.png)
+
+---
+
+## System prompt leaking - variation
+
+![](../images/phack14.png)
+
+---
+
+
+## Role play attack
+
+![](../images/phack15.png)
+
+---
+
+## DAN
+
+![](../images/phack16.png)
+
+---
+
+## JAILBREAK
+
+![](../images/phack17.png)
+
+---
+
+## Refusal suppression
+
+![](../images/phack18.png)
+
+---
+
+## Refusal suppression - more
+
+![](../images/phack19.png)
+
+---
+
+
 
