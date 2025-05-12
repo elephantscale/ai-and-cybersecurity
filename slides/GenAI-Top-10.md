@@ -64,7 +64,7 @@
 * [Details](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
 ---
 
-# LLM02:2025 Sensitive Information Disclosure
+## LLM02:2025 Sensitive Information Disclosure
 * Sensitive information can affect both the LLM and its application context. 
   * Personal identifiable information (PII), 
   * financial details, 
