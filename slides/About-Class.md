@@ -155,6 +155,8 @@ Notes:
 
 # Becoming an Ace
 
+---
+
 ## AI security is cool!
 
 * AI and security is the freshest area
