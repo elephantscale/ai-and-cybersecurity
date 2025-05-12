@@ -200,3 +200,51 @@
 
 ---
 
+## Hackathon - protect the runtime
+
+![](../images/phack34.png)
+
+* Note Watson
+* Trained on malicious prompts
+
+---
+
+## Model evaluate the input
+
+![](../images/phack35.png)
+
+---
+
+## Shield off
+
+![](../images/phack36.png)
+
+---
+
+## Without the shield, rulez!
+
+![](../images/phack37.png)
+
+---
+
+## Shield on!
+
+![](../images/phack38.png)
+
+---
+
+## Shield blocks
+
+![](../images/phack39.png)
+
+---
+
+## What's next?
+
+![](../images/phack40.png)
+
+![](../images/phack41.png)
+---
+
+
+
