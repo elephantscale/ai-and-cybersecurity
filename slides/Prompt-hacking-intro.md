@@ -6,7 +6,7 @@
 
 ![](../images/05-simon-willison.png)
 
-Notes
+Notes:
 
 * https://www.youtube.com/watch?v=FgxwCaL6UTA
 * https://www.linkedin.com/in/simonwillison/
