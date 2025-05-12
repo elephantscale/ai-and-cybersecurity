@@ -7,6 +7,12 @@
 | 1   | Introducing AI Security | AI and Cybersecurity * Data poisoning, model evasion, adversarial attacks * Protecting AI Models and Algorithms |
 | 2   | Securing AI Data&Models | Data, model security * Adversarial attacks * Frameworks * Ethics                                                |
 
+* Plan of approach
+  * AI
+  * Security
+  * AI+security
+  * Exploits
+  * Defenses
 Notes: 
 
 ---
