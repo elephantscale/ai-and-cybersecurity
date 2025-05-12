@@ -2,11 +2,14 @@
 
 ---
 
-## Prompt injection is hacking
+## Simon Willison
 
 ![](../images/05-simon-willison.png)
 
+Notes
+
 * https://www.youtube.com/watch?v=FgxwCaL6UTA
+* https://www.linkedin.com/in/simonwillison/
 
 ---
 
