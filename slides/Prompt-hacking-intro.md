@@ -6,8 +6,7 @@
 
 ![](../images/05-simon-willison.png)
 
-Notes:
-
+* Who is Simon?
 * https://www.youtube.com/watch?v=FgxwCaL6UTA
 * https://www.linkedin.com/in/simonwillison/
 
