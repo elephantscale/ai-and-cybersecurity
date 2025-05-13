@@ -1,4 +1,4 @@
-# secure-coding-labs
+# AI and Cybersecurity labs
 
 ### Prompt engineering
 * https://github.com/elephantscale/building-ai-applications-labs/tree/main/Prompt-engineering
@@ -21,4 +21,9 @@
 ### Guardrails in the cloud
 * https://learn.deeplearning.ai/courses/serverless-agentic-workflows-with-amazon-bedrock/lesson/1/introduction
 
+### GoatAI
+
+* Project
+* https://github.com/elephantscale/AIGoat
+* aigoat-frontend-bucket-q1ygwq95.s3-website-us-east-1.amazonaws.com
 
