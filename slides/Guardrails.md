@@ -1,5 +1,11 @@
 # Guardrails
 
+---
+
+# AI Scheming
+
+---
+
 ## AI Scheming is Real
 
 * From a recent talk
@@ -33,4 +39,15 @@
 
 ---
 
-If you're building with RAG, multi-agent systems, or working on AI security, let’s connect!
+## AWS Guardrails
+
+* Lab
+
+---
+
+## Guardrails AI
+
+* Demo lab
+* https://github.com/elephantscale/OpenAI-labs/tree/main/55-Guardrails
+
+---
