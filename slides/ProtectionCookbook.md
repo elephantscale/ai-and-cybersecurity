@@ -2,6 +2,10 @@
 
 ---
 
+# Protection Cookbook
+
+---
+
 ## First pinch of advice
 
 1. Prompt Guard for prompt injection detection
@@ -40,5 +44,11 @@ Notes:
 
 ---
 
+# Securing AI Data and Pipelines
+
+---
+## TODO
+* todo
+---
 
 

@@ -1,11 +1,16 @@
 # secure-coding-labs
 
+### Prompt engineering
+* https://github.com/elephantscale/building-ai-applications-labs/tree/main/Prompt-engineering
 
 ### Threat Modeling
 
 1. [Lab 1](threat-modeling-for-AI/README_01.md)
 2. [Lab 2](threat-modeling-for-AI/README_02.md)
 3. [Lab 3](threat-modeling-for-AI/README_03.md)
+
+### Guardrails demo
+* https://github.com/elephantscale/building-ai-applications-labs/blob/main/Agentic-on-Bedrock/L4/Lesson_4.ipynb
 
 ### Guardrails lab
 * https://learn.deeplearning.ai/courses/safe-and-reliable-ai-via-guardrails/lesson/1/introduction
