@@ -41,7 +41,9 @@
 
 ## AWS Guardrails
 
-* Lab
+* Demo lab
+* https://github.com/elephantscale/building-ai-applications-labs/blob/main/Agentic-on-Bedrock/L4/Lesson_4.ipynb
+
 
 ---
 
